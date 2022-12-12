@@ -1,3 +1,7 @@
+//Problem name :- Length of Longest Substring
+//Approach:- Two pointer method
+//Language:- Javascript
+//author :- Hrithik R
 var lengthOfLongestSubstring = function(s) {
 	   
    let pointer1 = 0;
